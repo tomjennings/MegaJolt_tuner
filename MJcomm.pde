@@ -9,6 +9,7 @@
   the MJ_*() functions issue the appropriate command, fetch
   and primitively check the returned data, and update the
   display window.
+ 
   
 */
 
