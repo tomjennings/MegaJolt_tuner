@@ -5,7 +5,6 @@
   MegaJolt Lite Jr (serial) and new MegaJolt/E (USB).
   
   reads and writes files created by the official configurator. 
-  writes files readable by the official configurator.
   
   this program edits advance bins, loads from file/saves to
   file (compatible with the official tuner program).
